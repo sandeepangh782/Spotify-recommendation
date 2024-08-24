@@ -1,6 +1,6 @@
 # Spotify Recommendation System
 
-This project is a Spotify recommendation system that fetches song features from Spotify, preprocesses the data, and provides song recommendations based on a hybrid recommendation algorithm.
+This project is a Spotify recommendation system that fetches song features from Spotify, preprocesses the data, and provides song recommendations based on a hybrid recommendation algorithm(cosine similarity and wieghted popularity).
 
 ## Project Structure
  ```sh
