@@ -3,6 +3,7 @@
 This project is a Spotify recommendation system that fetches song features from Spotify, preprocesses the data, and provides song recommendations based on a hybrid recommendation algorithm.
 
 ## Project Structure
+ ```sh
 spotify-recommendation/
 │
 ├── config/
@@ -18,7 +19,7 @@ spotify-recommendation/
 ├── requirements.txt                # List of required Python packages
 ├── README.md                       # Project overview and instructions
 └── main.py   
-
+ ```
 
 ## Setup
 
